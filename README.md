@@ -30,7 +30,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - 5-factor model implementation in R
 - Global mutual fund expected returns estimation
 
-### [Low Volatility Anomaly Study](./Low_Volatility_Anomaly_Analysis.ipynb)
+### [Low Volatility Anomaly Study](./Low_Volatility_Anomaly_Analysis.html)
 **Comprehensive quantitative research validating the low volatility anomaly across 360 S&P stocks (2002-2021)**
 
 **Key Findings:**
@@ -50,7 +50,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - **Risk management**: Volatility drag effects on compounded returns
 - **Portfolio construction**: Evidence against high-beta strategies, support for defensive positioning
 
-**[View Complete Analysis (Jupyter Notebook)](./Low_Volatility_Anomaly_Analysis.ipynb)** 
+**[View Complete Analysis (Jupyter Notebook)](./Low_Volatility_Anomaly_Analysis.html)** 
 
 ## Technical Skills
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), R, Excel/VBA
