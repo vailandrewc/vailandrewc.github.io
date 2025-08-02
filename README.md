@@ -10,7 +10,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - Comprehensive DCF and multiple-based valuation
 - Restaurant industry analysis with peer benchmarking
 - Risk scenario modeling with probability weighting
--** [Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx)** | ** [Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)**
+   [Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx) |  [Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)
 
 ## Additional Case Studies
 
