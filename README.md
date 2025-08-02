@@ -12,7 +12,8 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - Risk scenario modeling with probability weighting
 - Short term thesis, published 07/23/25
 
-  [Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx) |  [Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)
+  **[Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx)**
+  **[Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)**
 
 ## Additional Case Studies
 
@@ -22,6 +23,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - 3-year trend analysis of ROI (27.50%), ROE (171.95%), and P/E ratios
 - Peer benchmarking against Microsoft and S&P 500 averages
 - Investment thesis supporting $10,000 position based on strong capital efficiency
+**[Full Report (PDF)](./Apple_Financial_Analysis.pdf)**
 
 ### Fama-French Factor Analysis
 - 5-factor model implementation in R
