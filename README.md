@@ -5,12 +5,12 @@ Investment analysis portfolio featuring equity research reports, financial model
 
 ## Featured Analysis
 
-### [Sweetgreen Inc. (NYSE: SG) - Equity Research Report]
+### [Sweetgreen Inc. (NYSE: SG) - Equity Research Report](./Sweetgreen_Equity_Research_Report.pdf)
 **Investment Recommendation: SHORT | Target Price: $10.30**
 - Comprehensive DCF and multiple-based valuation
 - Restaurant industry analysis with peer benchmarking
 - Risk scenario modeling with probability weighting
--
+-** [Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx)** | ** [Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)**
 
 ## Additional Case Studies
 
@@ -33,8 +33,8 @@ Investment analysis portfolio featuring equity research reports, financial model
 
 ## Contact
 - **Email**: vailandrewc@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Location**: Available for opportunities in NYC, Boston, Philadelphia
+- **LinkedIn**: www.linkedin.com/in/andrewcvail
+- **Location**: Available for opportunities in NYC, Boston, Philadelphia, Miami
 
 ---
 *This portfolio demonstrates quantitative finance and equity research capabilities through hands-on analysis and modeling projects.*
