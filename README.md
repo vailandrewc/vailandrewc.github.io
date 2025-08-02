@@ -14,9 +14,12 @@ Investment analysis portfolio featuring equity research reports, financial model
 
 ## Additional Case Studies
 
-### Apple Inc. Financial Analysis
-- Multi-year 10-K analysis with ratio evaluation
-- Competitive benchmarking and investment perspective
+### [Apple Inc. (AAPL) - Financial Analysis](./Apple_Financial_Analysis.pdf)
+**Multi-year fundamental analysis with investment recommendation**
+- Comprehensive ratio analysis across liquidity, profitability, and solvency
+- 3-year trend analysis of ROI (27.50%), ROE (171.95%), and P/E ratios
+- Peer benchmarking against Microsoft and S&P 500 averages
+- Investment thesis supporting $10,000 position based on strong capital efficiency
 
 ### Fama-French Factor Analysis
 - 5-factor model implementation in R
