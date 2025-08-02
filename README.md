@@ -10,6 +10,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - Comprehensive DCF and multiple-based valuation
 - Restaurant industry analysis with peer benchmarking
 - Risk scenario modeling with probability weighting
+- Short term thesis, published 07/23/25
 
   [Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx) |  [Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)
 
@@ -56,7 +57,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 ## Contact
 - **Email**: vailandrewc@gmail.com
 - **LinkedIn**: www.linkedin.com/in/andrewcvail
-- **Location**: Available for opportunities in NYC, Boston, Philadelphia, Miami
+- **Location**: Available for opportunities in NYC, Boston, Philadelphia, Miami, Washington D.C.
 
 ---
 *This portfolio demonstrates quantitative finance and equity research capabilities through hands-on analysis and modeling projects.*
