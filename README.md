@@ -23,6 +23,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - 3-year trend analysis of ROI (27.50%), ROE (171.95%), and P/E ratios
 - Peer benchmarking against Microsoft and S&P 500 averages
 - Investment thesis supporting $10,000 position based on strong capital efficiency
+
 **[Full Report (PDF)](./Apple_Financial_Analysis.pdf)**
 
 ### Fama-French Factor Analysis
