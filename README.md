@@ -25,7 +25,7 @@ Investment analysis portfolio featuring equity research reports, financial model
 - 5-factor model implementation in R
 - Global mutual fund expected returns estimation
 
-### [Low Volatility Anomaly Study](./Low_Volatility_Anomaly_Study.ipynb)
+### [Low Volatility Anomaly Study](./Low_Volatility_Anomaly_Analysis.ipynb)
 **Comprehensive quantitative research validating the low volatility anomaly across 360 S&P stocks (2002-2021)**
 
 **Key Findings:**
@@ -45,7 +45,7 @@ Investment analysis portfolio featuring equity research reports, financial model
 - **Risk management**: Volatility drag effects on compounded returns
 - **Portfolio construction**: Evidence against high-beta strategies, support for defensive positioning
 
-**[View Complete Analysis](./Low_Volatility_Anomaly_Study.ipynb)**
+**[View Complete Analysis](./Low_Volatility_Anomaly_Analysis.ipynb)**
 
 ## Technical Skills
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), R, Excel/VBA
