@@ -25,9 +25,27 @@ Investment analysis portfolio featuring equity research reports, financial model
 - 5-factor model implementation in R
 - Global mutual fund expected returns estimation
 
-### Low Volatility Anomaly Study
-- Python-based quantitative research
-- 360-equity portfolio backtesting with Sharpe ratio analysis
+### [Low Volatility Anomaly Study](./Low_Volatility_Anomaly_Study.ipynb)
+**Comprehensive quantitative research validating the low volatility anomaly across 360 S&P stocks (2002-2021)**
+
+**Key Findings:**
+- **Anomaly confirmed** in 60% of time periods analyzed (3 of 5 subsets)
+- **Optimal portfolio** identified in mid-volatility range (Portfolio 5: 1.05% returns, 1.07 beta)
+- **High-beta underperformance**: Portfolio 10 (highest vol/beta) consistently delivered lowest returns
+- **CAPM breakdown**: Traditional risk-return relationship failed in majority of periods
+
+**Research Methodology:**
+- **360-stock universe** sorted into 10 decile portfolios (36 stocks each)
+- **Multi-period validation** across 5-year subsets (2002-2006, 2007-2011, 2012-2016, 2017-2021)
+- **Comprehensive risk metrics**: Beta calculations via OLS regression, portfolio variance using covariance matrices
+- **Sector analysis**: Individual stock examples (AMD β=2.37, Southern Company β=0.23)
+
+**Investment Implications:**
+- **Behavioral explanations**: Investor biases toward "lottery" stocks, institutional constraints
+- **Risk management**: Volatility drag effects on compounded returns
+- **Portfolio construction**: Evidence against high-beta strategies, support for defensive positioning
+
+**[View Complete Analysis](./Low_Volatility_Anomaly_Study.ipynb)**
 
 ## Technical Skills
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), R, Excel/VBA
