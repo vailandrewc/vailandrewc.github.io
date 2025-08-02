@@ -1,7 +1,7 @@
 # Andrew Vail - Quantitative Finance Portfolio
-Investment analysis portfolio featuring equity research reports, financial models, and quantitative studies by Andrew Vail (MS Financial Management, Boston University)
+Investment analysis portfolio featuring equity research reports, financial models, and quantitative studies by Andrew Vail
 
-**MS Financial Management, Boston University | Former Professional Baseball Player**
+MSc Financial Management, Investment Analysis, Boston University | Former Professional Baseball Player
 
 ## Featured Analysis
 
