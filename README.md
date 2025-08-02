@@ -52,7 +52,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - **Risk management**: Volatility drag effects on compounded returns
 - **Portfolio construction**: Evidence against high-beta strategies, support for defensive positioning
 
-**[View Complete Analysis (Jupyter Notebook)](./Low_Volatility_Anomaly_Analysis.html)** 
+**[View Complete Analysis (HTML)](./Low_Volatility_Anomaly_Analysis.html)** 
 
 ## Technical Skills
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), R, Excel/VBA
