@@ -15,6 +15,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - Short term thesis, published 07/23/25
 
   **[Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx)**
+
   **[Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)**
 
 ## Additional Case Studies
