@@ -30,8 +30,9 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 **[Full Report (PDF)](./Apple_Financial_Analysis.pdf)**
 
 ### Fama-French Factor Analysis
-- 5-factor model implementation in R
-- Global mutual fund expected returns estimation
+- Applied 3- and 5-Factor models in R and Excel to forecast global mutual fund returns
+- Computed and visualizedfactor loadings, alpha, and t-statistics using robust OLS regression
+- Presented equity curves and correlation heatmaps across market-neutral portfolios.
 
 ### [Low Volatility Anomaly Study](./Low_Volatility_Anomaly_Analysis.html)
 **Comprehensive quantitative research validating the low volatility anomaly across 360 S&P stocks (2002-2021)**
