@@ -56,7 +56,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 
 **[View Complete Analysis (HTML)](./Low_Volatility_Anomaly_Analysis.html)** 
 
-### [Asian vs European Option Pricing](.
+### [Asian vs European Option Pricing](./Asian_vs_European_Option_Pricing(1).html)
 
 This project compares the pricing of Asian and European call and put options using a combination of Monte Carlo simulation and the Black-Scholes-Merton analytical model. It highlights the effects of path dependence and averaging on option valuation.
 
@@ -80,6 +80,7 @@ This project compares the pricing of Asian and European call and put options usi
 - The gap between Asian and European prices widens for deep in-the-money and out-of-the-money strikes.
 - Path-dependent options like Asians exhibit reduced convexity and differ from traditional put-call parity.
 
+**[View Complete Analysis (HTML)](./Asian_vs_European_Option_Pricing(1).html)**
 
 
 ## Technical Skills
