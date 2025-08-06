@@ -56,6 +56,32 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 
 **[View Complete Analysis (HTML)](./Low_Volatility_Anomaly_Analysis.html)** 
 
+### [Asian vs European Option Pricing](.
+
+This project compares the pricing of Asian and European call and put options using a combination of Monte Carlo simulation and the Black-Scholes-Merton analytical model. It highlights the effects of path dependence and averaging on option valuation.
+
+**Overview:**
+
+- **European options** are priced using the Black-Scholes-Merton formula.
+- **Asian options** (arithmetic average) are priced via Monte Carlo simulation.
+- The simulation explores both standard geometric Brownian motion and jump diffusion dynamics.
+
+**Contents:**
+
+- Simulation of GBM and jump-diffusion asset paths
+- Black-Scholes functions for analytical option pricing
+- Monte Carlo simulation for Asian call and put options
+- Pricing comparison across strike prices
+- Visualization and interpretation of results
+
+**Key Insights:**
+
+- Asian options are consistently less expensive than European options due to volatility averaging.
+- The gap between Asian and European prices widens for deep in-the-money and out-of-the-money strikes.
+- Path-dependent options like Asians exhibit reduced convexity and differ from traditional put-call parity.
+
+
+
 ## Technical Skills
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), R, Excel/VBA
 - **Financial Modeling**: DCF, 3-Statement Models, Monte Carlo
