@@ -14,7 +14,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 - Risk scenario modeling with probability weighting
 - Short term thesis, published 07/23/25
 
-  **[Financial Model (Excel)](./Sweetgreen_Financial_Model.xlsx)**
+  **[Financial Model (Excel)](./Sweetgreen_Valuation_Model.xlsx)**
 
   **[Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)**
 
