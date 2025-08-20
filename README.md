@@ -7,7 +7,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 
 ## Featured Analysis
 
-### [Sweetgreen Inc. (NYSE: SG) - Equity Research Report](./Sweetgreen_Equity_Research_Report.pdf)
+### [Sweetgreen Inc. (NYSE: SG) - Equity Research Report](./Sweetgreen_Investment_Thesis_Report.pdf)
 **Investment Recommendation: SHORT | DCF Implied Price: $10.47**
 - Comprehensive DCF and multiple-based valuation
 - Restaurant industry analysis with peer benchmarking
