@@ -16,7 +16,7 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 
   **[Financial Model (Excel)](./Sweetgreen_Valuation_Model.xlsx)**
 
-  **[Full Report (PDF)](./Sweetgreen_Equity_Research_Report.pdf)**
+  **[Full Report (PDF)](./Sweetgreen_Investment_Thesis_Report.pdf)**
 
 ## Additional Case Studies
 
