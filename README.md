@@ -9,10 +9,10 @@ MSc Financial Management, Investment Analysis, Boston University | Former Profes
 
 ### [Sweetgreen Inc. (NYSE: SG) - Equity Research Report](./Sweetgreen_Investment_Thesis_Report.pdf)
 **Investment Recommendation: SHORT | DCF Implied Price: $10.47**
-- Comprehensive DCF and multiple-based valuation
-- Restaurant industry analysis with peer benchmarking
-- Risk scenario modeling with probability weighting
-- Short term thesis, published 07/23/25
+- DCF analysis with EV/Revenue multiple validation (1.56x vs. 2.23x market)
+- 30% discount to market multiple reflects G&A leverage execution risk
+- Scenario analysis weighted by G&A scaling probability (Bear 50%, Base 35%, Bull 15%)
+- Short thesis based on unproven automation scalability, published 07/23/25
 
   **[Financial Model (Excel)](./Sweetgreen_Valuation_Model.xlsx)**
 
