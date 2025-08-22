@@ -82,7 +82,7 @@ This project compares the pricing of Asian and European call and put options usi
 
 **[View Complete Analysis (HTML)](./Asian_vs_European_Option_Pricing(1).html)**
 
-### [Efficient Frontiers and Optimal Risky Portfolios](./Efficient_Frontiers_and_ORPs.html)
+### [Efficient Frontiers and Optimal Risky Portfolios](./Efficient_Frontiers_and_ORP_Estimation_Risk(1).html)
 
 This project analyzes the construction of efficient frontiers and optimal risky portfolios (ORPs) using stock return data (AAPL, JPM, NKE, T) from 2010–2019. It combines empirical frontier estimation, out-of-sample testing, and a simulation appendix to illustrate estimation risk.
 
@@ -111,7 +111,7 @@ This project analyzes the construction of efficient frontiers and optimal risky 
 - Out-of-sample testing showed earlier ORPs remained serviceable but fell below the 2018–2019 frontier, highlighting efficiency loss over time.
 - Simulation confirms that estimation noise inflates in-sample Sharpe ratios and explains why historical ORPs degrade out-of-sample.
 
-**[View Complete Analysis (HTML)](./Efficient_Frontiers_and_ORPs.html)**
+**[View Complete Analysis (HTML)](./Efficient_Frontiers_and_ORP_Estimation_Risk(1).html)**
 
 ## Technical Skills
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), R, Excel/VBA
