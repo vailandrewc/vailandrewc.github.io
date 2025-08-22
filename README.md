@@ -82,6 +82,36 @@ This project compares the pricing of Asian and European call and put options usi
 
 **[View Complete Analysis (HTML)](./Asian_vs_European_Option_Pricing(1).html)**
 
+### [Efficient Frontiers and Optimal Risky Portfolios](./Efficient_Frontiers_and_ORPs.html)
+
+This project analyzes the construction of efficient frontiers and optimal risky portfolios (ORPs) using stock return data (AAPL, JPM, NKE, T) from 2010–2019. It combines empirical frontier estimation, out-of-sample testing, and a simulation appendix to illustrate estimation risk.
+
+**Overview:**
+
+- Compute efficient frontiers across three sample windows: 2010–2013, 2014–2017, 2018–2019.
+- Identify Optimal Risky Portfolios (maximum Sharpe ratio) and compare weights, expected returns, volatilities, and Sharpe ratios.
+- Evaluate earlier ORPs out-of-sample against 2018–2019 data to test robustness.
+- Simulate “noisy” frontiers from a known distribution to show how estimation error inflates in-sample Sharpe ratios.
+
+**Contents:**
+
+- Data setup and return splitting across time windows
+- Minimum-variance optimization with shorting allowed
+- Efficient frontier plots for each sample period
+- ORP tables summarizing weights and performance metrics
+- Out-of-sample evaluation on 2018–2019 returns
+- Appendix: simulated noisy vs. true frontiers
+- Interpretation of Sharpe ratio inflation and overfitting
+
+**Key Insights:**
+
+- The 2010–2013 ORP delivered the strongest Sharpe (~1.22) but required shorting JPM.
+- The 2014–2017 ORP was fully long and balanced but less efficient (Sharpe ~1.08).
+- The 2018–2019 ORP produced the highest return (~30%) at the cost of higher volatility (~24.6%), with a Sharpe of ~1.14 and a short in T.
+- Out-of-sample testing showed earlier ORPs remained serviceable but fell below the 2018–2019 frontier, highlighting efficiency loss over time.
+- Simulation confirms that estimation noise inflates in-sample Sharpe ratios and explains why historical ORPs degrade out-of-sample.
+
+**[View Complete Analysis (HTML)](./Efficient_Frontiers_and_ORPs.html)**
 
 ## Technical Skills
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), R, Excel/VBA
